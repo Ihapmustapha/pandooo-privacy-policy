@@ -1,7 +1,5 @@
 # pandooo-privacy-policy
 
-# Privacy Policy for Pandooo!
-
 **Last updated:** October 26, 2025  
 
 Pandooo! (“the Extension”) is committed to protecting your privacy.  
